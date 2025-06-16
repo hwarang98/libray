@@ -83,6 +83,7 @@ public:
     }
   }
 
+  //
   void RentalBookByTitle(std::string title)
   {
     // TODO: 책 대여 기능
